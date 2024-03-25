@@ -1,4 +1,6 @@
 # ModularSpriteAnimationFactory
+![NeonCatIcon](https://github.com/kyboon/ModularSpriteAnimationFactory/blob/master/addons/modular_sprite_animation_factory/msaf_logo.png)
+
 A Godot 4 plugin to generate animations for modular 2d sprites. Generated animations will have multiple tracks, one for each Sprite2D node.
 
 ## Installation
