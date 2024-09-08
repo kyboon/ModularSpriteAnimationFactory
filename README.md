@@ -3,6 +3,8 @@
 
 A Godot 4 plugin to generate animations for modular 2d sprites. Generated animations will have multiple tracks, one for each Sprite2D node.
 
+[Video tutorial](https://youtu.be/XLWVh-b9_6Y)
+
 ## Installation
 1. Download the plugin from github and place the `addons` directory to your Godot project root folder. Alternatively, you can install it from the `AssetLib` in the Godot editor.
 2. In the Godot editor, go to `Project` > `Project Settings` > `Plugins` and enable `Modular Sprite Animation Factory`.
@@ -47,3 +49,5 @@ A Godot 4 plugin to generate animations for modular 2d sprites. Generated animat
 
    ![image](https://github.com/kyboon/ModularSpriteAnimationFactory/assets/24255335/d2c96a0b-db67-4e16-ade0-01085408a640)
 
+## FAQ
+- How to create a new animation library: Select an AnimationPlayer node, select the Animation tab at the bottom, click on the "Animation" button right to the pause/play button, select "Manage animations", you can add/edit your animation library here.
